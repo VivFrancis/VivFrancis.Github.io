@@ -2,4 +2,6 @@
 
 [Project 1 : HR Data Analytics](https://github.com/VivFrancis/VivFrancis.Github.io/tree/main) 
 
-![Screenshot (280)](Screenshot (280).png) 
+Perforemed an end to end analysis on the company's workforce data
+
+![Screenshot_sample](Screenshot_sample.png)
